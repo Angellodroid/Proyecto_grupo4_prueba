@@ -1,2 +1,4 @@
-# Proyecto_grupo4_prueba
-Este es un espacio para la descripción del proyecto a realizar.
+# Proyecto_Final_grupo4
+
+Gemelo digital de una microrred eléctrica 
+
